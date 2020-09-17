@@ -8,7 +8,7 @@ module CreditCardBins::Info
     bins = []
 
     read_data do |_key, value|
-      bins << value['bin'] if CreditCardBins::Validator.bins value['bin']
+      bins << value['bin'] if CreditCardBins::Validator.data value
     end
 
     bins.compact.uniq
@@ -18,7 +18,7 @@ module CreditCardBins::Info
     brands = []
 
     read_data do |_key, value|
-      if CreditCardBins::Validator.brands value['brand']
+      if CreditCardBins::Validator.data value
         brands << value['brand']
       end
     end
@@ -30,7 +30,7 @@ module CreditCardBins::Info
     types = []
 
     read_data do |_key, value|
-      if CreditCardBins::Validator.types value['type']
+      if CreditCardBins::Validator.data value
         types << value['type']
       end
     end
@@ -42,7 +42,7 @@ module CreditCardBins::Info
     issuers = []
 
     read_data do |_key, value|
-      if CreditCardBins::Validator.issuers value['issuer']
+      if CreditCardBins::Validator.data value
         issuers << value['issuer']
       end
     end
@@ -54,7 +54,7 @@ module CreditCardBins::Info
     countries = []
 
     read_data do |_key, value|
-      if CreditCardBins::Validator.countries value['country']['alpha_3']
+      if CreditCardBins::Validator.data value
         countries << value['country']['alpha_3']
       end
     end
