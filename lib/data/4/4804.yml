@@ -54,7 +54,7 @@
   brand: VISA
   type: ''
   category: PURCHASING
-  issuer: ''
+  issuer: 'BANCO DAVIVIENDA, S.A.'
   country:
     alpha_2: CO
     alpha_3: COL

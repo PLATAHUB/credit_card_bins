@@ -12,13 +12,13 @@
 '552201':
   bin: '552201'
   brand: MASTERCARD
-  type: ''
+  type: CREDIT
   category: ''
-  issuer: HSBC BANK PLC
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
-    alpha_2: GB
-    alpha_3: GBR
-    name: United Kingdom
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
 '552202':
   bin: '552202'
   brand: MASTERCARD

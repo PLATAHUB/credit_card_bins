@@ -812,13 +812,13 @@
 '540581':
   bin: '540581'
   brand: MASTERCARD
-  type: ''
+  type: CREDIT
   category: ''
-  issuer: ''
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
 '540582':
   bin: '540582'
   brand: MASTERCARD

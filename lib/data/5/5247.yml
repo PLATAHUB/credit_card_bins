@@ -83,12 +83,12 @@
   bin: '524708'
   brand: MASTERCARD
   type: CREDIT
-  category: GOLD
-  issuer: BANCO PARIS
+  category: ''
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
-    alpha_2: CL
-    alpha_3: CHL
-    name: Chile
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
 '524709':
   bin: '524709'
   brand: MASTERCARD

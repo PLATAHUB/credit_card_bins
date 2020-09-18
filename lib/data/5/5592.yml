@@ -252,9 +252,9 @@
 '559225':
   bin: '559225'
   brand: MASTERCARD
-  type: ''
+  type: CREDIT
   category: ''
-  issuer: ''
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
     alpha_2: CO
     alpha_3: COL
