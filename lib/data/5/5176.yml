@@ -34,11 +34,11 @@
   brand: MASTERCARD
   type: CREDIT
   category: ''
-  issuer: CHINA MINSHENG BANKING CORP., LTD.
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
-    alpha_2: CN
-    alpha_3: CHN
-    name: China
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
 '517604':
   bin: '517604'
   brand: MASTERCARD

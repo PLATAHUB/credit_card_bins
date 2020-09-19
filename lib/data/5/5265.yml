@@ -572,13 +572,13 @@
 '526557':
   bin: '526557'
   brand: MASTERCARD
-  type: ''
+  type: DEBIT
   category: ''
-  issuer: ''
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
 '526558':
   bin: '526558'
   brand: MASTERCARD

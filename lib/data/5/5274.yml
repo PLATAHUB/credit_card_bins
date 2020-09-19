@@ -22,13 +22,13 @@
 '527402':
   bin: '527402'
   brand: MASTERCARD
-  type: ''
+  type: CREDIT
   category: ''
-  issuer: FIRST NATIONAL BANK OF OMAHA
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
 '527403':
   bin: '527403'
   brand: MASTERCARD
