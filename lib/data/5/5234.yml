@@ -344,11 +344,11 @@
   brand: MASTERCARD
   type: CREDIT
   category: ''
-  issuer: DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE
+  issuer: MOVii S.A. 
   country:
-    alpha_2: DE
-    alpha_3: DEU
-    name: Germany
+    alpha_2: CO
+    alpha_3: COL
+    name: Colombia
 '523435':
   bin: '523435'
   brand: MASTERCARD
