@@ -814,7 +814,7 @@
   brand: MASTERCARD
   type: CREDIT
   category: BUSINESS
-  issuer: BANCO DAVIVIENDA, S.A.
+  issuer: BANCIVICO
   country:
     alpha_2: CO
     alpha_3: COL
@@ -824,7 +824,7 @@
   brand: MASTERCARD
   type: ''
   category: BUSINESS
-  issuer: BANCO DAVIVIENDA, S.A.
+  issuer: BANCIVICO
   country:
     alpha_2: CO
     alpha_3: COL

@@ -14,7 +14,7 @@
   brand: MASTERCARD
   type: CREDIT
   category: PLATINUM
-  issuer: BANCO DAVIVIENDA, S.A.
+  issuer: BANCIVICO
   country:
     alpha_2: CO
     alpha_3: COL
@@ -364,7 +364,7 @@
   brand: MASTERCARD
   type: CREDIT
   category: PLATINUM
-  issuer: BANCO DAVIVIENDA, S.A.
+  issuer: BANCIVICO
   country:
     alpha_2: CO
     alpha_3: COL
