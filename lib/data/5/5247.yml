@@ -83,8 +83,8 @@
   bin: '524708'
   brand: MASTERCARD
   type: CREDIT
-  category: ''
-  issuer: BANCO DAVIVIENDA, S.A. (NO APLICA DESCUENTO)
+  category: PREPAID
+  issuer: BANCO DAVIVIENDA, S.A.
   country:
     alpha_2: CO
     alpha_3: COL
